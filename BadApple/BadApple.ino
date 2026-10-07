@@ -12,7 +12,7 @@
  *  开发板: ESP32 Dev Module
  *  分区:   Huge APP (3MB No OTA/1MB SPIFFS)
  */
-#include <Arduino.h
+#include <Arduino.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
